@@ -21,10 +21,16 @@ body {
 }
 
 /* Style for headings */
-h1, h2 {
+h1 {
   color: #333333;
   font-family: 'Helvetica Neue', sans-serif;
   margin-bottom: 10px;
+}
+
+h2 {
+  color: #333333;
+  font-family: 'Helvetica Neue', sans-serif;
+  margin-top: 40px;
 }
 
 /* Style for paragraphs */
