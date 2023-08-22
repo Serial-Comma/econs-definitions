@@ -6,7 +6,7 @@ body, h1, h2, p {
 
 /* Set a nice background gradient */
 body {
-  background: linear-gradient(to bottom, #f9f9f9, #e0e0e0);
+  background: linear-gradient(to bottom, #f2f2f2, #d9d9d9);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #333;
   margin-left: 10px;
