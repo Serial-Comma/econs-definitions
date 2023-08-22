@@ -24,6 +24,7 @@ body {
 h1 {
   color: #333333;
   font-family: 'Helvetica Neue', sans-serif;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 
@@ -31,6 +32,7 @@ h2 {
   color: #333333;
   font-family: 'Helvetica Neue', sans-serif;
   margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 /* Style for paragraphs */
