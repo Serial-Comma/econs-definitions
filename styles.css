@@ -9,6 +9,7 @@ body {
   background: linear-gradient(to bottom, #f9f9f9, #e0e0e0);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #333;
+  margin-left: 10px;
 }
 
 /* Style for the main content */
