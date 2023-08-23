@@ -9,7 +9,7 @@ body {
   background: linear-gradient(to bottom, #f9f9f9, #e0e0e0);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #333;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 /* Style for the main content */
@@ -27,7 +27,6 @@ h1{
   color: #333;
   font-family: 'Playfair Display', serif;
   margin: 30px;
-  margin-bottom: -10px;
 }
 
 h1 a{
@@ -40,7 +39,6 @@ h2 {
   color: #333;
   font-family: 'Playfair Display', serif;
   margin-bottom: 15px;
-  margin-top:25px;
 }
 
 /* Style for paragraphs */
@@ -79,4 +77,15 @@ img:hover {
 hr {
   width: 200px; /* Adjust the percentage or other value as needed */
   margin-left: 0px;
+}
+
+.spacer {
+  height: 30vh; /* This will create a space equal to the viewport height */
+}
+
+.end{
+  color: rgb(177, 177, 177);
+  text-align: center;
+  align-self: center;
+  font-size: 12px
 }
