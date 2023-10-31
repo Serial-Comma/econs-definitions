@@ -3,7 +3,7 @@ lmao
 
 
 funny code cause i forgot the bold the things
-```
+```python
 html = """
 
 insert html here
